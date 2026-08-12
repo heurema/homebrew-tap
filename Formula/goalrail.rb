@@ -3,8 +3,8 @@
 class Goalrail < Formula
   desc "Evidence-backed inspection of coding-agent environments"
   homepage "https://github.com/heurema/goalrail-rs"
-  url "https://github.com/heurema/goalrail-rs/releases/download/v0.3.1/goalrail-v0.3.1-aarch64-apple-darwin.tar.gz"
-  sha256 "cec3d5efe60d96cf2af8cb6422f74c719cf1f2c5c48e6317ed0b7a5c1abf4b7c"
+  url "https://github.com/heurema/goalrail-rs/releases/download/v0.3.6/goalrail-v0.3.6-aarch64-apple-darwin.tar.gz"
+  sha256 "c8bc5879d44b574343c3db897919b05466b9ef819b5e2d6de0a5cbc28664022f"
   license "MIT"
 
   depends_on arch: :arm64
